@@ -1,4 +1,4 @@
-# Space Shooter
+I# Space Shooter
 
 A small 2D space shooter built with Python and Pygame. Pilot the ship, destroy incoming meteors, and survive as long as possible while your score increases.
 
@@ -20,7 +20,7 @@ A small 2D space shooter built with Python and Pygame. Pilot the ship, destroy i
 Clone the repository and enter its directory:
 
 ```bash
-git clone https://github.com/fidel147/Space-Shooter.git
+git clone https://github.com/fidele-zogbe/Space-Shooter.git
 cd Space_Shooter
 ```
 
